@@ -9,6 +9,9 @@ function bReadSync(varname, filepath) {
       console.error('Error reading file:', err);
     }
   }
+/*if (filepath.endsWith('.bread')) {
+  making this code when .bread releases
+} */
 }
 
 module.exports = bReadSync;
