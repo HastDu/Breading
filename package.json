@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/HastDu/breading/issues"
   },
-  "homepage": "https://github.com/HastDu/brading/tree/main#readme",
+  "homepage": "https://github.com/HastDu/breading/tree/main#readme",
   "dependencies": {
     "fs": "^0.0.1-security"
   },
