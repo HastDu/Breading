@@ -1,4 +1,4 @@
-# Breading, a file reading library because i hate using fs.
+# Breading, a file reading library for bread.
 #### Breading is a file format and a Node.JS library made for the sole purpouse of allowing you to read .txt and .bread files and making them global variables.
 ##### This is Open-Source and anyone willing to add/help can. Support is appreciated and you will be put on the wall of Bakers.
 
