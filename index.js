@@ -1,7 +1,14 @@
-import * as fs from 'fs';
+const fs = require('fs');
 
-function mold() {
-
+function bRead(varname, filepath) {
+  if (filepath.endsWith('.txt')) {
+    try {
+      const data = fs.readFileSync(filepath, 'utf8');
+      global[varname] = data;
+    } catch (err) {
+      console.error('Error reading file:', err);
+    }
   }
-  
-  module.exports = mold
+}
+
+module.exports = bRead;

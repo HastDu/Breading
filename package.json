@@ -1,5 +1,5 @@
 {
-  "name": "mold",
+  "name": "breading",
   "version": "0.0.1",
   "description": "Mold is a filesystem-library meant for plaintext defining inside of your code.",
   "main": "index.js",
@@ -15,7 +15,8 @@
     "filesystem-library",
     "plaintext",
     "js",
-    "ts"
+    "ts",
+    "breading"
   ],
   "author": "katzekonigin",
   "license": "LGPL-2.1-only",
@@ -25,5 +26,6 @@
   "homepage": "https://github.com/HastDu/mold/tree/main#readme",
   "dependencies": {
     "fs": "^0.0.1-security"
-  }
+  },
+  "devDependencies": {}
 }
