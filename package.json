@@ -1,6 +1,6 @@
 {
   "name": "breading",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mold is a filesystem-library meant for plaintext defining inside of your code.",
   "main": "index.js",
   "scripts": {
