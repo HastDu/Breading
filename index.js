@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-function bRead(varname, filepath) {
+function bReadSync(varname, filepath) {
   if (filepath.endsWith('.txt')) {
     try {
       const data = fs.readFileSync(filepath, 'utf8');
@@ -11,4 +11,4 @@ function bRead(varname, filepath) {
   }
 }
 
-module.exports = bRead;
+module.exports = bReadSync;
