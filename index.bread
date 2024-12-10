@@ -1,0 +1,12 @@
+/* > breaddef {
+    pointer
+    type
+    variablename
+}
+example */
+
+> origin {
+    ./origin.txt
+    plaintext
+    myfavthing
+}
