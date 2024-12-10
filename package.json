@@ -1,6 +1,6 @@
 {
   "name": "breading",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Breading is a filesystem-library meant for plaintext and bread defining inside of your code.",
   "main": "index.js",
   "scripts": {
