@@ -1,12 +1,5 @@
-/* > breaddef {
-    pointer
-    type
-    variablename
-}
-example */
-
-> origin {
+> myText {
     ./origin.txt
-    plaintext
-    myfavthing
+    type (txt)
+    variable myVar
 }
